@@ -1,0 +1,2 @@
+The project has been built in debug simulation mode.
+Random Number: 1842095311

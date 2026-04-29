@@ -1,0 +1,11 @@
+The project has been built in debug simulation mode.
+Starting Digital Wallet test...
+Insufficient funds!
+
+Viewing balance:
+Current Balance: 1220
+
+Viewing most recent 3 transactions:
+Pay: 50
+Deposit: 100
+Pay: 30
