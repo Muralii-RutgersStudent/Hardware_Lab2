@@ -1,0 +1,10 @@
+enclave {
+    from "sgx_tstdc.edl" import *;
+    trusted {
+        /* Define a secure ECALL to generate a random number */
+        public int ecall_gen_random_number();
+    };
+    untrusted {
+        /* You can define OCALLs here if needed */
+    };
+};
